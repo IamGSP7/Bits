@@ -1,0 +1,16 @@
+bits\ui\DashboardFrame$1.class
+bits\model\Category.class
+bits\dao\UserDAO.class
+bits\model\Component.class
+bits\ui\RegisterFrame.class
+bits\ui\LoginFrame.class
+bits\ui\DashboardFrame.class
+bits\model\User.class
+bits\ui\Theme$1.class
+bits\dao\CategoryDAO.class
+bits\ui\Theme.class
+bits\Main.class
+bits\database\DBConnection.class
+bits\dao\ComponentDAO.class
+bits\dao\PasswordUtil.class
+bits\ui\ComponentDialog.class
