@@ -10,7 +10,7 @@ public final class DBConnection {
     public static Connection getConnection() throws SQLException {
         String url = System.getenv().getOrDefault("BITS_DB_URL", DEFAULT_URL);
         String user = System.getenv().getOrDefault("BITS_DB_USER", "root");
-        String password = System.getenv().getOrDefault("BITS_DB_PASSWORD", "lawde");
+        String password = System.getenv().getOrDefault("BITS_DB_PASSWORD", "Your_password");
         return DriverManager.getConnection(url, user, password);
     }
 }
