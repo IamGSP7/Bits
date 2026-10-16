@@ -1,4 +1,4 @@
-# BITS — Basic Inventory & Tracking System (Java version)
+# BITS — Basic Inventory & Tracking System 
 
 This is the starting Java version of BITS: a desktop electronics-component inventory manager built with **Java Swing + JDBC + MySQL**. It includes registration/login, user-specific inventory, categories, search, add/edit, stock increment/decrement, and delete.
 
